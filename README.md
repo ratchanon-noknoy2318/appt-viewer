@@ -28,6 +28,7 @@ The system is designed to be accessible for operational use and supports 24-hour
   <img src="https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Google%20Sheets%20API-111111?style=flat-square&logo=google&logoColor=white" />
 </p>
+
 ---
 
 ## Data Scope
