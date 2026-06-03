@@ -52,12 +52,12 @@ The **Appointment Lookup System (24/7)** was developed to transform the traditio
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ratchanon-noknoy2318/appointment-lookup-24-7
+   git clone https://github.com/ratchanon-noknoy2318/healthcare-appointment-lookup.git
    ```
 
 2. Navigate into the project directory:
    ```bash
-   cd appointment-lookup-24-7
+   cd healthcare-appointment-lookup
    ```
 
 3. Install project dependencies:
