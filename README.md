@@ -8,6 +8,4 @@ A web application for viewing and managing appointment data using Google Sheets 
 - CSS Modules
 
 ## Features
-- View appointment schedules
-- Fetch data from Google Sheets in real-time
-- Lightweight and serverless design
+- Patients can check their appointment schedule 24/7.
